@@ -1,6 +1,6 @@
-#### [Collaboratory@Columbia](http://collaboratory.columbia.edu/)
-#### Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/)
-### Winter 2017-2018 Data Science Bootcamp
+## [Collaboratory@Columbia](http://collaboratory.columbia.edu/)
+### Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/)
+## Winter 2017-2018 Data Science Bootcamp
 - When: January 8th – 12th, 2018
 - Where: Design Studio, Room 430 of the Riverside Church (490 Riverside Dr, New York, NY 10027)- Daily schedule: 10am to 4pm (*9am to 10am, Introduction January 8th) The [Collaboratory@Columbia](http://collaboratory.columbia.edu/) is pleased to announce our second annual free *Winter Break Data Science Bootcamp* for Columbia University PhD students and postdoctoral scholars who are interested in extending their existing mathematical and programming skills to include a training in data science. Designed by faculty and postdoctoral scholars from Columbia University’s [Data Science Institute](http://datascience.columbia.edu/), the curriculum includes on-line learning material, introductory lectures, hands-on laboratory experiences and a capstone project. 
 

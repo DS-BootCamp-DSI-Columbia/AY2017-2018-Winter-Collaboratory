@@ -1,7 +1,6 @@
 ![collaboratory logo](Misc-files/collaboratory.png)
 
 ## The [Collaboratory@Columbia](http://collaboratory.columbia.edu/)
-### Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/)
 
 ### The Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/) are organizing the Second Week-long Intensive Data Science Bootcamp
 

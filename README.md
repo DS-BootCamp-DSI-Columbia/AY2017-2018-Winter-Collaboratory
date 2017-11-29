@@ -1,7 +1,7 @@
 ![collaboratory logo](Misc-files/collaboratory.png)
 
 <p align="center">
-<b> <H1> 2nd Annual Data Science Bootcamp </H1> </b>
+<b> <H1 align="center"> 2nd Annual Data Science Bootcamp </H1> </b>
 </p> 
 
 ### The Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/) are organizing the Second Week-long Intensive Data Science Bootcamp

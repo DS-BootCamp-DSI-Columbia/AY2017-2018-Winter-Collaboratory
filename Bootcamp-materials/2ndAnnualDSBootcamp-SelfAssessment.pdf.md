@@ -76,8 +76,14 @@ d) none of the above
 
 9. Find the expected value of the following discrete distribution.
 
-Y    = [0,   1,    2,   3,    5  ]
-P(Y) = [0.4, 0.15, 0.1, 0.15, 0.2]
+| Y      | P(Y)  |
+| ------ |:-----:| 
+|0       | 0.40  |
+|1       | 0.15  |
+|2       | 0.10  | 
+|3       | 0.15  | 
+|5       | 0.20  | 
+
 
 a) 1.8
 b) 2.0

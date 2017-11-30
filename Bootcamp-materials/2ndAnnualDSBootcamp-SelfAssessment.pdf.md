@@ -60,9 +60,11 @@ d) `[25, 14, 222, 33, 2]` <br />
 
 7. What is the output of the code shown below?
 
-`def f(x): <br />
-    return bool(x%2) <br />
-print(f(20), f(21))`
+```python
+def f(x):
+    return bool(x%2)
+print(f(20), f(21))
+```
 
 a) `False True` <br />
 b) `False False `<br />

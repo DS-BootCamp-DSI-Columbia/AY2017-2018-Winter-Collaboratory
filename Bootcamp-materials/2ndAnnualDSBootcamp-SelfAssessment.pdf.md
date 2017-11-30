@@ -17,9 +17,9 @@
     d) Parentheses 
 
 3. What is the result of the expression shown below if `x=56.236`?
-```python
-print("%.2f"%x)
-```
+    ```python
+    print("%.2f"%x)
+    ```
 
     a) `56.00` 
     b) `56.24`
@@ -28,72 +28,72 @@ print("%.2f"%x)
 
 4. What is the output of the code snippet shown below?
 
-`A = [[1,2,3],[4,5,6],[7,8,9]]` <br />
-`A[1]` <br />
+    `A = [[1,2,3],[4,5,6],[7,8,9]]` <br />
+    `A[1]` <br />
 
-a) `[1, 2, 3]` <br />
-b) `[1]` <br />
-c) `[4, 5, 6]` <br />
-d) `[4]` <br />
+    a) `[1, 2, 3]` <br />
+    b) `[1]` <br />
+    c) `[4, 5, 6]` <br />
+    d) `[4]` <br />
 
 5. What is the output of the following?
 
-```python
-i = 1
-while True:
-    if i % 7 == 0:
-        break
-    print(i)
-    i += 1
-```
+    ```python
+    i = 1
+    while True:
+        if i % 7 == 0:
+            break
+        print(i)
+        i += 1
+    ```
 
-a) `1 2 3 4 5 6` <br />
-b) `1 2 3 4 5 6 7` <br />
-c) error <br />
-d) none of the above <br />
+    a) `1 2 3 4 5 6` <br />
+    b) `1 2 3 4 5 6 7` <br />
+    c) error <br />
+    d) none of the above <br />
 
 
 6. Suppose list1 is `[2, 33, 222, 14, 25]`. What is `list1[:-1]` ?
 
-a) `[2, 33, 222, 14]` <br />
-b) Error <br />
-c) `25` <br />
-d) `[25, 14, 222, 33, 2]` <br />
+    a) `[2, 33, 222, 14]` <br />
+    b) Error <br />
+    c) `25` <br />
+    d) `[25, 14, 222, 33, 2]` <br />
 
 7. What is the output of the code shown below?
 
-```python
-def f(x):
-    return bool(x % 2)
-print(f(20), f(21))
-```
+    ```python
+    def f(x):
+        return bool(x % 2)
+    print(f(20), f(21))
+    ```
 
-a) `False True` <br />
-b) `False False `<br />
-c) `True True` <br />
-d) `True False` <br />
+    a) `False True` <br />
+    b) `False False `<br />
+    c) `True True` <br />
+    d) `True False` <br />
 
 8. 3 coins are tossed simultaneously where the probability of getting head for each coin is 0.8. Find the probability of getting 2 heads and 1 tail. <br />
 
-a) 0.128 <br />
-b) 0.384 <br />
-c) 0.512 <br />
-d) none of the above 
+    a) 0.128 <br />
+    b) 0.384 <br />
+    c) 0.512 <br />
+    d) none of the above 
 
 9. Find the expected value of the following discrete distribution. <br />
 
-| Y      | P(Y)  |
-| ------ |:-----:| 
-|0       | 0.40  |
-|1       | 0.15  |
-|2       | 0.10  | 
-|3       | 0.15  | 
-|5       | 0.20  | 
+    | Y      | P(Y)  |
+    | ------ |:-----:| 
+    |0       | 0.40  |
+    |1       | 0.15  |
+    |2       | 0.10  | 
+    |3       | 0.15  | 
+    |5       | 0.20  | 
 
 
-a) 1.8 <br />
-b) 2.0 <br />
-c) 2.5 <br />
-d) none of the above <br />
+    a) 1.8 <br />
+    b) 2.0 <br />
+    c) 2.5 <br />
+    d) none of the above <br />
 
 

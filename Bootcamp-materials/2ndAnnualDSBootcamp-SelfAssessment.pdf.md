@@ -2,7 +2,7 @@
 <b> <H1> Self-assessment </H1> </b>
 </p> 
 
-1. In python, which is the correct operator for power(x^y)? <br />
+1. In python, which is the correct operator for taking the ``y``th power of ``X``? <br />
 
     a) `X^y` <br />
     b) `X**y` <br />
@@ -37,7 +37,7 @@ d) `[4]` <br />
 5. What is the output of the following?
 
 ```python
-i = 1>
+i = 1
 while True:
     if i%7 == 0:
         break

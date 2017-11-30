@@ -76,12 +76,11 @@
 ### Basics of math
 
 8. Let matrix `A` be
-    ```|1 -2  3|```
-    ```|4  5 -6|```
-    and 
-    matrix `B` be
-    ```| 3  0  2|```
-    ```|-7  1  8|```
+    > |1 -2  3|
+    > |4  5 -6|
+    and matrix `B` be
+    >| 3  0  2|
+    >|-7  1  8|
 
     Write down:
     

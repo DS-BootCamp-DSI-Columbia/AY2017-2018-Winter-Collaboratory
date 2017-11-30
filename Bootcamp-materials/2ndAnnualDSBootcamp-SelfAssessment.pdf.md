@@ -36,12 +36,14 @@ d) `[4]` <br />
 
 5. What is the output of the following?
 
-`i = 1 <br />
-while True: <br />
-    if i%7 == 0: <br />
-        break <br />
-    print(i) <br />
-    i += 1` <br />
+```python
+i = 1>
+while True:
+    if i%7 == 0:
+        break
+    print(i)
+    i += 1
+```
 
 a) `1 2 3 4 5 6` <br />
 b) `1 2 3 4 5 6 7` <br />

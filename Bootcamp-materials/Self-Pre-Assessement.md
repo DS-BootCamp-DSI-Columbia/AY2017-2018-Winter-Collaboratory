@@ -1,4 +1,4 @@
-##Self-assessment 
+## Self-assessment 
 
 The following questions are for you to assess whether you have adequate working knowledge of Python, math, probability to benefit from this boot camp. 
 

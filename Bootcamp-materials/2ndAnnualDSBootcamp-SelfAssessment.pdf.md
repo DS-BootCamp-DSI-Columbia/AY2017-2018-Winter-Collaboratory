@@ -75,44 +75,31 @@
     
 ### Basics of math
 
-8. Let matrix `A` be
-    > |1 -2  3|
-    > |4  5 -6|
-    and matrix `B` be
-    >| 3  0  2|
-    >|-7  1  8|
-
-    Write down:
-    
-    (1) `A+B`
-    (2) `3A`
-    (3) `2A-3B`
-
-9. Linear algegra: Give brief definitions to the following terms
+8. Linear algegra: Give brief definitions to the following terms
     (1)	The rank of a matrix
     (2)	The trace of a matrix
     (3)	Eigenvalue
     (4)	The inverse of a matrix
 
-10. Calculus: Find the values of two **positive** numbers, `a` and `b`, that minimize `(1/a+1/b)` subject to one constraint that `a+b=1`. 
+9. Calculus: Find the values of two **positive** numbers, `a` and `b`, that minimize `(1/a+1/b)` subject to one constraint that `a+b=1`. 
 
 ### Basics of probablility    
 
-11. 3 coins are tossed simultaneously where the probability of getting head for each coin is 0.8. Find the probability of getting 2 heads and 1 tail. <br />
+10. 3 coins are tossed simultaneously where the probability of getting head for each coin is 0.8. Find the probability of getting 2 heads and 1 tail. <br />
 
     a) 0.128 <br />
     b) 0.384 <br />
     c) 0.512 <br />
     d) none of the above 
     
-12. Let random variable `X` has expectation `m1` and standard deviation `s1` and random variable `Y` has expectation `m2` and standard deviation `s2`. The correlation coefficient between `X` and `Y` is `r`. Write down the calculating equations for the following quantities in terms of `m1`, `m2`, `s1`, `s2`, and `r`. 
+11. Let random variable `X` has expectation `m1` and standard deviation `s1` and random variable `Y` has expectation `m2` and standard deviation `s2`. The correlation coefficient between `X` and `Y` is `r`. Write down the calculating equations for the following quantities in terms of `m1`, `m2`, `s1`, `s2`, and `r`. 
 
     (1) mean of `3X+10` 
     (2) mean of `2X-Y`
     (3) standard deviation of `2X+1`
     (4) standard deviation of `4X-2Y`
 
-13. Find the expected value of the following discrete distribution. <br />
+12. Find the expected value of the following discrete distribution. <br />
 
     | Y      | P(Y)  |
     | ------ |:-----:| 

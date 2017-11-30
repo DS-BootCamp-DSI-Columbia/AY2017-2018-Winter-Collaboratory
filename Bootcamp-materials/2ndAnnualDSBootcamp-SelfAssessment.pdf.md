@@ -17,7 +17,9 @@
     d) Parentheses 
 
 3. What is the result of the expression shown below if `x=56.236`?
-`print("%.2f"%x)` <br />
+```python
+print("%.2f"%x)
+```
 
     a) `56.00` 
     b) `56.24`
@@ -39,7 +41,7 @@ d) `[4]` <br />
 ```python
 i = 1
 while True:
-    if i%7 == 0:
+    if i % 7 == 0:
         break
     print(i)
     i += 1
@@ -62,7 +64,7 @@ d) `[25, 14, 222, 33, 2]` <br />
 
 ```python
 def f(x):
-    return bool(x%2)
+    return bool(x % 2)
 print(f(20), f(21))
 ```
 

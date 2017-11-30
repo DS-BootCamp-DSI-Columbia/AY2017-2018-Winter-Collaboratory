@@ -20,7 +20,7 @@ The [Collaboratory@Columbia](http://collaboratory.columbia.edu/) is pleased to a
 
 ### About the instructors
 
-![andy](Misc-files/andy.jpeg) 
+![andy](Misc-files/andy.jpeg) ![tian](Misc-files/tian.jpeg) 
 
 **[Andreas Mueller](http://amueller.github.io/)** is a lecturer at the [Data Science Institute](http://datascience.columbia.edu/)at Columbia University and author of the O’Reilly book “[Introduction to Machine Learning with Python](http://amueller.github.io/#book)”, describing a practical approach to machine learning with python and scikit-learn. He is one of the core developers of the scikit-learn machine learning library, and he has been co-maintaining it for several years. He is also a [Software Carpentry](http://software-carpentry.org/) instructor. In the past, he worked at the NYU Center for Data Science on open source and open science, and as Machine Learning Scientist at Amazon. You can find his full  cv [here](http://amueller.github.io/cv_andreas_mueller.pdf). His mission is to create open tools to lower the barrier of entry for machine learning applications, promote reproducible science and democratize the access to high-quality machine learning algorithms.
 

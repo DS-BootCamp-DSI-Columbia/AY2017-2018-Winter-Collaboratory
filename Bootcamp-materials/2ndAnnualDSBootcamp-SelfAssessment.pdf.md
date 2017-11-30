@@ -2,11 +2,11 @@
 <b> <H1> Self-assessment </H1> </b>
 </p> 
 
-In python, which is the correct operator for power(x^y)?
+In python, which is the correct operator for power(x^y)? <br />
 
-a) `X^y`
-b) `X**y`
-c) `X^^y`
+a) `X^y` <br />
+b) `X**y` <br />
+c) `X^^y` <br />
 d) None of the mentioned
 
 2. Which one of the following have the highest precedence in a python expression?
@@ -16,11 +16,11 @@ b) Addition
 c) Multiplication
 d) Parentheses
 
-3. What is the result of the expression shown below if x=56.236?
+3. What is the result of the expression shown below if `x=56.236`?
+<br />
+`print("%.2f"%x)` <br />
 
-`print("%.2f"%x)`
-
-a) 56.00
+a) 56.00 
 b) 56.24
 c) 56.23
 d) 0056.236

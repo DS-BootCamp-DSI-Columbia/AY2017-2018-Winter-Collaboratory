@@ -14,7 +14,7 @@
 The [Collaboratory@Columbia](http://collaboratory.columbia.edu/) is pleased to announce our second annual free  Data Science Bootcamp coming up over the winter break.  This week-long, immersive, hands-on workshop  is especially designed for Columbia University PhD students and postdoctoral scholars who are interested in extending their existing mathematical and programming skills to include a training in data science. Faculty may apply. Designed by faculty and postdoctoral scholars from Columbia University’s [Data Science Institute](http://datascience.columbia.edu/), the curriculum includes on-line learning material, introductory lectures, hands-on laboratory experiences and a capstone project.
 
 - Click [here](Bootcamp-materials/) for detailed course information, including a **self-assessment** for basic prerequisites. 
-- Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdZ1nAAJKj-myuZj7M7nMEVoG7rAKEoPkNi6cHaIDO2yNU-Dg/viewform) to apply to participate. 
+- **Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdZ1nAAJKj-myuZj7M7nMEVoG7rAKEoPkNi6cHaIDO2yNU-Dg/viewform) to apply to participate.** 
 - Seats are limited. The deadline for applications is **December 15th, 2018**. 
 
 

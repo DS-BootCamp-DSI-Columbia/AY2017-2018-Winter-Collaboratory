@@ -15,7 +15,7 @@ The [Collaboratory@Columbia](http://collaboratory.columbia.edu/) is pleased to a
 
 - Click [here](Bootcamp-materials/) for detailed course information, including a **self-assessment** for basic prerequisites. 
 - **Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdZ1nAAJKj-myuZj7M7nMEVoG7rAKEoPkNi6cHaIDO2yNU-Dg/viewform) to apply to participate.** 
-- Seats are limited. The deadline for applications is **December 15th, 2018**. 
+- Seats are limited. The deadline for applications is **December 15th, 2017**. 
 
 
 ### About the instructors

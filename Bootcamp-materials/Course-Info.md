@@ -51,7 +51,6 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
 - **Topics**: Natural Language Processing; Neural Networks.
 - **Mandatory assignment** [EdX DS102X 5.4-5.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017) [EdX DS103X 4.1-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS103x+1T2017)
-
 - 10:00am Lecture: Neural Networks
 - 11:00am Lab session: Building neural networks
 - 12:00pm Lunch Break

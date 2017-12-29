@@ -20,19 +20,44 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 + 3:00pm-4:00pm: Session 3 (1h lab)
 
 
-#### **Day 1**: January 8th, 2018: INTRODUCTION TO DATA SCIENCE
+#### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE
 + Topics: Introduction to Data Science; Data Visualization; Probability and Regression.
 + **9:00am-10:00am: Welcome and Registration.**
  
 #### Day 2: January 9th, 2018: ALGORITHMS & CLASSIFICATION
 + Topics: Introduction to Algorithms; Introduction to Machine Learning; Classification.
 
++ 10:00am Lecture: Introduction to Machine Learning
++ 11:00am Lab session: Classification and Regression
++ 12:00pm Lunch Break
++  1:00pm Lecture: Nearest Neighbors and Linear Models
++  1:30pm Lab session: Nearest Neighbors classification
++  2:30pm Break
++  3:00pm Lab session: Linear Models in practice
+
  
 #### Day 3: January 10th, 2018: MACHINE LEARNING
 + Topics: Model Selection; Probabilistic Modeling; Evaluation.
+
++ 10:00am Lecture: Model Evaluation and Model Selection
++ 11:00am Lab session: Grid Search, cross-validation and metrics
++ 12:00pm Lunch Break
++  1:00pm Lecture: Trees and Forests
++  1:30pm Lab session: Working with tree-based models
++  2:30pm Break
++  3:00pm Lab session: tbd
  
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
-+ Topics: Natural Language Processing; Information Retrieval; Neural Networks.
+
++ Topics: Natural Language Processing; Neural Networks.
+
++ 10:00am Lecture: Neural Networks
++ 11:00am Lab session: Building neural networks
++ 12:00pm Lunch Break
++  1:00pm Lecture: Natural Language Processing
++  1:30pm Lab session: Bag of words models
++  2:30pm Break
++  3:00pm Lab session: Text classification and topic models
 
 #### Day 5: January 12th, 2018: CAPSTONE PROJECT
 + Topics: Lab project work. 

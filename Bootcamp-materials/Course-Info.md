@@ -47,10 +47,20 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 + Basic skills for working with data files (i/o operations on csv and tsv files, etc.)
 
 ### Getting started
+
+#### Introductional Material
+
 To get started here are some online resources for programming skills in Python and for setting up the required Python development environment.
 
-+ [Coursera "Programming for Everybody (Getting Started with Python)"](https://www.coursera.org/learn/python).
-+ We’ll be using the [Anaconda Python distribution](https://www.anaconda.com/download/?lang=en-us#linuxQ);
-+ Along with the [Jupyter notebook with an IPython kernel](https://jupyter.readthedocs.io/en/latest/content-quickstart.html);
-+ [Introduction to IPython Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html).
-+ [IPython notebook exercises](http://nbviewer.ipython.org/github/catherinedevlin/mpwfw_exercises/blob/master/setup.windows.ipynb).
++ [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html) A guide on running Jupyter notebooks
++ [Jupyter with Python](http://opentechschool.github.io/python-data-intro/core/notebook.html) Working with Python kernels in Jupyter.
++ [Python Data Science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) A free book in the form of Jupyter notebooks that introduced the core Python data science libraries.
++ [A whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) A free book introducing basic Python programming concepts
+
+
+#### Installation Instructions
++ We’ll be using the [Anaconda Python distribution](https://www.anaconda.com/download/?lang=en-us#linuxQ)
++ Download and install the distribution from the link above
++ Download the course material from this repository
++ Start the Jupyter Notebook and open the "requirements.ipynb" file (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html))
++ Run the file and make sure no errors are raised.

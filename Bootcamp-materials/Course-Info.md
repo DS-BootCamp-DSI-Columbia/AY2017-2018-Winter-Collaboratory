@@ -54,7 +54,7 @@ To get started here are some online resources for programming skills in Python a
 
 + [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html) A guide on running Jupyter notebooks
 + [Jupyter with Python](http://opentechschool.github.io/python-data-intro/core/notebook.html) Working with Python kernels in Jupyter.
-+ [Python Data Science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) A free book in the form of Jupyter notebooks that introduced the core Python data science libraries.
++ [Python Data Science handbook](https://github.com/jakevdp/PythonDataScienceHandbook) A free book in the form of Jupyter notebooks that introduced the core Python data science libraries ([launch interactive session](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb))
 + [A whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython) A free book introducing basic Python programming concepts
 
 

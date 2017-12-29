@@ -25,9 +25,9 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - **Mandatory assignment** TBD
 - 9:00am-10:00am: Welcome and Registration.
  
-#### Day 2: January 9th, 2018: ALGORITHMS & CLASSIFICATION
-- **Topics**: Introduction to Algorithms; Introduction to Machine Learning; Classification.
-- **Mandatory assignment** TBD
+#### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING
+- **Topics**: Introduction to Machine Learning; Supervised Learning Algorithms
+- **Mandatory assignment** [EdX DS102X Week 4, 4.2-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
 - 10:00am Lecture: Introduction to Machine Learning
 - 11:00am Lab session: Classification and Regression
 - 12:00pm Lunch Break
@@ -37,20 +37,21 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 -  3:00pm Lab session: Linear Models in practice
 
  
-#### Day 3: January 10th, 2018: MACHINE LEARNING
-- **Topics**: Model Selection; Probabilistic Modeling; Evaluation.
-- **Mandatory assignment** TBD
+#### Day 3: January 10th, 2018: MACHINE LEARNING CONTINUED
+- **Topics**: Model Selection; Evaluation; Probabilistic Modelling
+- **Mandatory assignment** [EdX DS102X 4.7-4.9, 5.1-5.3](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
 - 10:00am Lecture: Model Evaluation and Model Selection
 - 11:00am Lab session: Grid Search, cross-validation and metrics
 - 12:00pm Lunch Break
 -  1:00pm Lecture: Trees and Forests
 -  1:30pm Lab session: Working with tree-based models
 -  2:30pm Break
--  3:00pm Lab session: tbd
+-  3:00pm Lab session: Probabilistic Modelling
  
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
 - **Topics**: Natural Language Processing; Neural Networks.
-- **Mandatory assignment** TBD
+- **Mandatory assignment** [EdX DS102X 5.4-5.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017) [EdX DS103X 4.1-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS103x+1T2017)
+
 - 10:00am Lecture: Neural Networks
 - 11:00am Lab session: Building neural networks
 - 12:00pm Lunch Break

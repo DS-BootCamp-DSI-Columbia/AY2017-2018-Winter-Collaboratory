@@ -6,7 +6,7 @@
 
 - When: January 8th – 12th, 2018
 - Where: Design Studio, Room 430 of the Riverside Church (490 Riverside Dr, New York, NY 10027)
-- Daily schedule: 10am to 4pm (*9am to 10am, Introduction January 8th)
+- Daily schedule: 10am to 4pm (9am to 10am, Introduction January 8th)
 
 ### Course Information
 The course is a blend of online learning experiences (about 2 hours of preparation will be required per day), in-class lectures, hands-on laboratory exercises with a variety of data sets, and a capstone project. The course will use the Python programming language. Participants are required to bring their own computer to the daily sessions. Lunch and refreshments are **NOT** provided.
@@ -21,12 +21,13 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 
 
 #### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE
-- Topics: Introduction to Data Science; Data Visualization; Probability and Regression.
+- **Topics**: Introduction to Data Science; Data Visualization; Probability and Regression.
 - **Mandatory assignment** TBD
-- **9:00am-10:00am: Welcome and Registration.**
+- 9:00am-10:00am: Welcome and Registration.
  
 #### Day 2: January 9th, 2018: ALGORITHMS & CLASSIFICATION
-- Topics: Introduction to Algorithms; Introduction to Machine Learning; Classification.
+- **Topics**: Introduction to Algorithms; Introduction to Machine Learning; Classification.
+- **Mandatory assignment** TBD
 - 10:00am Lecture: Introduction to Machine Learning
 - 11:00am Lab session: Classification and Regression
 - 12:00pm Lunch Break
@@ -37,8 +38,8 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 
  
 #### Day 3: January 10th, 2018: MACHINE LEARNING
-- Topics: Model Selection; Probabilistic Modeling; Evaluation.
-
+- **Topics**: Model Selection; Probabilistic Modeling; Evaluation.
+- **Mandatory assignment** TBD
 - 10:00am Lecture: Model Evaluation and Model Selection
 - 11:00am Lab session: Grid Search, cross-validation and metrics
 - 12:00pm Lunch Break
@@ -48,9 +49,8 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 -  3:00pm Lab session: tbd
  
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
-
-- Topics: Natural Language Processing; Neural Networks.
-
+- **Topics**: Natural Language Processing; Neural Networks.
+- **Mandatory assignment** TBD
 - 10:00am Lecture: Neural Networks
 - 11:00am Lab session: Building neural networks
 - 12:00pm Lunch Break
@@ -60,7 +60,7 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 -  3:00pm Lab session: Text classification and topic models
 
 #### Day 5: January 12th, 2018: CAPSTONE PROJECT
-+ Topics: Lab project work. 
++ **Topics**: Lab project work. 
  
 
 ### Prerequisites

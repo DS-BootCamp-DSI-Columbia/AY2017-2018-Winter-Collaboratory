@@ -27,7 +27,6 @@ The course is a blend of online learning experiences (about 2 hours of preparati
  
 #### Day 2: January 9th, 2018: ALGORITHMS & CLASSIFICATION
 - Topics: Introduction to Algorithms; Introduction to Machine Learning; Classification.
-
 - 10:00am Lecture: Introduction to Machine Learning
 - 11:00am Lab session: Classification and Regression
 - 12:00pm Lunch Break

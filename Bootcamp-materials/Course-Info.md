@@ -19,15 +19,23 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - 2:30pm-3:00pm: Break
 - 3:00pm-4:00pm: Session 3 (1h lab)
 
+(Pre-assignments are short videos that should be studied before coming to the sessions.)
 
 #### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE
-- **Topics**: Introduction to Data Science; Data Visualization; Probability and Regression.
-- **Mandatory assignment** TBD
+- **Topics**: Introduction to Data Science; Data Visualization; Statistical Inference and Modeling.
+- **Mandatory pre-assignment** [EdX DS101X Week 4, 4.7-4.11](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2017/course/)
 - 9:00am-10:00am: Welcome and Registration.
+- 10:00am Lecture: Statistical thinking for data science
+- 11:00am Lab session: EDAV tutorials
+- 12:00pm Lunch Break
+- 1:00pm Lecture: Introduction to Statistical Modeling and Inference
+- 1:30pm Lab session: Understanding sampling variation and bias
+- 2:30pm Break
+- 3:00pm Lab session: Introduction to Bayesian modeling
  
 #### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING
 - **Topics**: Introduction to Machine Learning; Supervised Learning Algorithms
-- **Mandatory assignment** [EdX DS102X Week 4, 4.2-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
+- **Mandatory pre-assignment** [EdX DS102X Week 4, 4.2-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
 - 10:00am Lecture: Introduction to Machine Learning
 - 11:00am Lab session: Classification and Regression
 - 12:00pm Lunch Break
@@ -39,7 +47,7 @@ The course is a blend of online learning experiences (about 2 hours of preparati
  
 #### Day 3: January 10th, 2018: MACHINE LEARNING CONTINUED
 - **Topics**: Model Selection; Evaluation; Probabilistic Modelling
-- **Mandatory assignment** [EdX DS102X 4.7-4.9, 5.1-5.3](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
+- **Mandatory pre-assignment** [EdX DS102X 4.7-4.9, 5.1-5.3](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
 - 10:00am Lecture: Model Evaluation and Model Selection
 - 11:00am Lab session: Grid Search, cross-validation and metrics
 - 12:00pm Lunch Break
@@ -50,7 +58,7 @@ The course is a blend of online learning experiences (about 2 hours of preparati
  
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
 - **Topics**: Natural Language Processing; Neural Networks.
-- **Mandatory assignment** [EdX DS102X 5.4-5.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017) [EdX DS103X 4.1-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS103x+1T2017)
+- **Mandatory pre-assignment** [EdX DS102X 5.4-5.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017) [EdX DS103X 4.1-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS103x+1T2017)
 - 10:00am Lecture: Neural Networks
 - 11:00am Lab session: Building neural networks
 - 12:00pm Lunch Break

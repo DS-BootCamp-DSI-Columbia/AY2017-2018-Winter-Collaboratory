@@ -26,12 +26,12 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - **Mandatory pre-assignment** [EdX DS101X Week 4, 4.7-4.11](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2017/course/)
 - 9:00am-10:00am: Welcome and Registration.
 - 10:00am Lecture: Statistical thinking for data science
-- 11:00am Lab session: EDAV tutorials
+- 11:00am Lab session: Python notebooks: getting started
 - 12:00pm Lunch Break
-- 1:00pm Lecture: Introduction to Statistical Modeling and Inference
-- 1:30pm Lab session: Understanding sampling variation and bias
+- 1:00pm Lecture: Introduction to Exploratory Data Analysis and Visualization
+- 1:30pm Lab session: EDAV tutorial - part (1)
 - 2:30pm Break
-- 3:00pm Lab session: Introduction to Bayesian modeling
+- 3:00pm Lab session: EDAV tutorial - part (2)
  
 #### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING
 - **Topics**: Introduction to Machine Learning; Supervised Learning Algorithms

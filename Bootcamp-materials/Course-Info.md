@@ -94,5 +94,5 @@ To get started here are some online resources for programming skills in Python a
 #### Installation Instructions
 + We’ll be using the [Anaconda Python distribution](https://www.anaconda.com/download/?lang=en-us#linuxQ)
 + Download and install the distribution from the link above
-+ Start the Jupyter Notebook and open the "Bootcamp-materials/notebooks/Pre-assignment/check_env.ipynb" file (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html))
++ Start the Jupyter Notebook and open the [Check Environment IPython Notebook](./notebooks/Pre-assignment/check_env.ipynb). (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html))
 + Run the file and make sure no errors are raised.

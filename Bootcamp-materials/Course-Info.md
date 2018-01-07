@@ -28,8 +28,8 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - 10:00am Lecture: Statistical thinking for data science
 - 11:00am Lab session: Python notebooks: getting started
 
-          ++ [Check Environment IPython Notebook](./notebooks/Pre-assignment/check_env.ipynb). (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html).)
-          ++ Doing statistics using Python
+          - [Check Environment IPython Notebook](./notebooks/Pre-assignment/check_env.ipynb). (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html).)
+          - Doing statistics using Python
           
 - 12:00pm Lunch Break
 - 1:00pm Lecture: Introduction to Exploratory Data Analysis and Visualization

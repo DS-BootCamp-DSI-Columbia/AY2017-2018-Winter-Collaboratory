@@ -26,9 +26,8 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - **Mandatory pre-assignment** [EdX DS101X Week 4, 4.7-4.11](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2017/course/)
 - 9:00am-10:00am: Welcome and Registration.
 - 10:00am Lecture: Statistical thinking for data science
-- 11:00am Lab session: Python notebooks: getting started
-          [Check Environment IPython Notebook](./notebooks/Pre-assignment/check_env.ipynb). (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html).)
-          Doing statistics using Python
+- 11:00am Lab session: Python notebooks: getting started: [Check Environment IPython Notebook](./notebooks/Pre-assignment/check_env.ipynb). (see [Jupyter notebook quickstart](https://jupyter.readthedocs.io/en/latest/content-quickstart.html).)
+          and Doing statistics using Python.
 - 12:00pm Lunch Break
 - 1:00pm Lecture: Introduction to Exploratory Data Analysis and Visualization
 - 1:30pm Lab session: EDAV tutorial - part (1)

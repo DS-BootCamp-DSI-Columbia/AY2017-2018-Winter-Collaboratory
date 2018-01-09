@@ -9,7 +9,7 @@
 + IPython notebooks are in the `doc` folder 
 + and other script(s) are in `lib` folder. 
 
- proj/
+` proj/
   ├── lib/
   ├── data/
-  └── doc/
+  └── doc/`

@@ -21,7 +21,7 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 
 (Pre-assignments are short videos that should be studied before coming to the sessions.)
 
-#### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE [[slide deck]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/slides/Day1) [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day1)
+#### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE [[slide deck]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/slides/Day1) [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day1)[[zip for download]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1.zip)
 - **Topics**: Introduction to Data Science; Data Visualization; Statistical Inference and Modeling.
 - **Mandatory pre-assignment** [EdX DS101X Week 4, 4.7-4.11](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2017/course/)
 - 9:00am-10:00am: Welcome and Registration. 
@@ -33,7 +33,7 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - 2:30pm Break
 - 3:00pm Lab session: [EDAV tutorial - part (2)](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1/doc/tutorial_day1_part2.ipynb)
  
-#### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day2)
+#### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day2) [[zip for download]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day2.zip)
 - **Topics**: Introduction to Machine Learning; Supervised Learning Algorithms
 - **Mandatory pre-assignment** [EdX DS102X Week 4, 4.2-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
 - 10:00am Lecture: Introduction to Machine Learning [slides](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day2-introduction-to-machine-learning.odp)

@@ -1,4 +1,4 @@
-**[ENTER COURSE]**
+###[[Direct ENTER]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/Course-Info.md)
 
 ![collaboratory logo](Misc-files/collaboratory.png)
 

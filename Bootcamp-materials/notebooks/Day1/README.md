@@ -3,7 +3,7 @@
 **[Updated]** 
 
 + Corrected a number of minor typos in the codes.
-+ A Python 3 version of part 2 notebook.
++ A [Python 3 version](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1/doc/tutorial_day1_part2_python3.ipynb) of part 2 notebook.
 + A note on installing the `wordcloud` package. 
 
 **[Folder organization]**

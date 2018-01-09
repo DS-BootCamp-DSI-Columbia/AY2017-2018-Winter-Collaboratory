@@ -21,37 +21,37 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 
 (Pre-assignments are short videos that should be studied before coming to the sessions.)
 
-#### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE
+#### Day 1: January 8th, 2018: INTRODUCTION TO DATA SCIENCE [[slide deck]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/slides/Day1) [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day1)
 - **Topics**: Introduction to Data Science; Data Visualization; Statistical Inference and Modeling.
 - **Mandatory pre-assignment** [EdX DS101X Week 4, 4.7-4.11](https://courses.edx.org/courses/course-v1:ColumbiaX+DS101X+1T2017/course/)
-- 9:00am-10:00am: Welcome and Registration.
+- 9:00am-10:00am: Welcome and Registration. 
 - 10:00am Lecture: Statistical thinking for data science
 - 11:00am Lab session: Getting started with [Python notebooks](https://jupyter.readthedocs.io/en/latest/content-quickstart.html). [Check Environment IPython Notebook](./notebooks/Pre-assignment/check_env.ipynb) & Doing statistics using Python.
 - 12:00pm Lunch Break
 - 1:00pm Lecture: Introduction to Exploratory Data Analysis and Visualization
-- 1:30pm Lab session: EDAV tutorial - part (1)
+- 1:30pm Lab session: [EDAV tutorial - part (1)](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1/doc/tutorial_day1-part1.ipynb)
 - 2:30pm Break
-- 3:00pm Lab session: EDAV tutorial - part (2)
+- 3:00pm Lab session: [EDAV tutorial - part (2)](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1/doc/tutorial_day1_part2.ipynb)
  
-#### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING
+#### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day2)
 - **Topics**: Introduction to Machine Learning; Supervised Learning Algorithms
 - **Mandatory pre-assignment** [EdX DS102X Week 4, 4.2-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
-- 10:00am Lecture: Introduction to Machine Learning
-- 11:00am Lab session: Classification and Regression
+- 10:00am Lecture: Introduction to Machine Learning [slides](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day2-introduction-to-machine-learning.odp)
+- 11:00am Lab session: [Classification and Regression](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day2/day2-lab1-classification-and-regression.ipynb)
 - 12:00pm Lunch Break
--  1:00pm Lecture: Nearest Neighbors and Linear Models
--  1:30pm Lab session: Nearest Neighbors classification
+-  1:00pm Lecture: Nearest Neighbors and Linear Models [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day2-linear-models-nearest-neighbors.odp)
+-  1:30pm Lab session: [Nearest Neighbors classification](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day2/day2-lab2-nearest-neighbors.ipynb)
 -  2:30pm Break
--  3:00pm Lab session: Linear Models in practice
+-  3:00pm Lab session: [Linear Models in practice](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day2/day2-lab3-linear-models-in-practice.ipynb)
 
  
 #### Day 3: January 10th, 2018: MACHINE LEARNING CONTINUED
 - **Topics**: Model Selection; Evaluation; Probabilistic Modelling
 - **Mandatory pre-assignment** [EdX DS102X 4.7-4.9, 5.1-5.3](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
-- 10:00am Lecture: Model Evaluation and Model Selection
+- 10:00am Lecture: Model Evaluation and Model Selection [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day3-model-evaluation.odp)
 - 11:00am Lab session: Grid Search, cross-validation and metrics
 - 12:00pm Lunch Break
--  1:00pm Lecture: Trees and Forests
+-  1:00pm Lecture: Trees and Forests [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day3-trees-and-forests.odp)
 -  1:30pm Lab session: Working with tree-based models
 -  2:30pm Break
 -  3:00pm Lab session: Probabilistic Modelling
@@ -59,10 +59,10 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
 - **Topics**: Natural Language Processing; Neural Networks.
 - **Mandatory pre-assignment** [EdX DS102X 5.4-5.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017) [EdX DS103X 4.1-4.5](https://courses.edx.org/courses/course-v1:ColumbiaX+DS103x+1T2017)
-- 10:00am Lecture: Neural Networks
+- 10:00am Lecture: Neural Networks [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day4-neural-networks.odp)
 - 11:00am Lab session: Building neural networks
 - 12:00pm Lunch Break
--  1:00pm Lecture: Natural Language Processing
+-  1:00pm Lecture: Natural Language Processing [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day4-text-data.odp)
 -  1:30pm Lab session: Bag of words models
 -  2:30pm Break
 -  3:00pm Lab session: Text classification and topic models

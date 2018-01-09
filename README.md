@@ -1,3 +1,5 @@
+**[ENTER COURSE]**
+
 ![collaboratory logo](Misc-files/collaboratory.png)
 
 <p align="center">

@@ -8,8 +8,3 @@
 + Raw data are in the `data` folder (files in this folder are not to be modified). 
 + IPython notebooks are in the `doc` folder 
 + and other script(s) are in `lib` folder. 
-
-` proj/
-  ├── lib/
-  ├── data/
-  └── doc/`

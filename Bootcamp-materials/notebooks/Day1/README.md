@@ -4,7 +4,7 @@
 
 + Corrected a number of minor typos in the codes.
 + A Python 3 version of part 2 notebook.
-+ A note on installing the `wordcloud` package. 
++ A [note](/doc/Installation of wordcloud on Windows.md) on installing the `wordcloud` package. 
 
 **[Folder organization]**
 

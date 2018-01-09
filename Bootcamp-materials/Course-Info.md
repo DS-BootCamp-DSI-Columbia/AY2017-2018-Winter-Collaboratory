@@ -32,6 +32,7 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - 1:30pm Lab session: [EDAV tutorial - part (1)](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1/doc/tutorial_day1-part1.ipynb)
 - 2:30pm Break
 - 3:00pm Lab session: [EDAV tutorial - part (2)](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day1/doc/tutorial_day1_part2.ipynb)
+- [Further reading](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/FurtherReadings.md)
  
 #### Day 2: January 9th, 2018: INTRODUCTION TO MACHINE LEARNING [[notebooks]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/Day2) [[zip for download]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/notebooks/Day2.zip)
 - **Topics**: Introduction to Machine Learning; Supervised Learning Algorithms

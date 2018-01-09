@@ -1,4 +1,4 @@
-![collaboratory logo](../../Misc-files/collaboratory.png)
+![collaboratory logo](../Misc-files/collaboratory.png)
 
 ## [Collaboratory@Columbia](http://collaboratory.columbia.edu/)
 ### Columbia [Data Science Institute](http://datascience.columbia.edu/) and [Columbia Enterpreneuship](http://entrepreneurship.columbia.edu/)

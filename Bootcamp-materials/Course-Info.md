@@ -64,9 +64,9 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 - 11:00am Lab session: Building neural networks
 - 12:00pm Lunch Break
 -  1:00pm Lecture: Natural Language Processing [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day4-text-data.odp)
--  1:30pm Lab session: Bag of words models
+-  1:30pm Lab session: Bag of words models, text classification
 -  2:30pm Break
--  3:00pm Lab session: Text classification and topic models
+-  3:00pm Lab session: Text classification continued, Q & A
 
 #### Day 5: January 12th, 2018: CAPSTONE PROJECT
 + **Topics**: Lab project work. 

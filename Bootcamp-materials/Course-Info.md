@@ -49,13 +49,13 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 #### Day 3: January 10th, 2018: MACHINE LEARNING CONTINUED
 - **Topics**: Model Selection; Evaluation; Probabilistic Modelling
 - **Mandatory pre-assignment** [EdX DS102X 4.7-4.9, 5.1-5.3](https://courses.edx.org/courses/course-v1:ColumbiaX+DS102X+1T2017)
-- 10:00am Lecture: Model Evaluation and Model Selection [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day3-model-evaluation.odp)
-- 11:00am Lab session: Grid Search, cross-validation and metrics
+- 10:00am Continuation of Lab session on linear models and preprocessing, review of lab session.
+- 11:00am Lecture: Model Evaluation and Model Selection [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day3-model-evaluation.odp)
 - 12:00pm Lunch Break
--  1:00pm Lecture: Trees and Forests [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day3-trees-and-forests.odp)
--  1:30pm Lab session: Working with tree-based models
+-  1:00pm Lab session: Grid Search, cross-validation and metrics
+-  1:30pm Lecture: Trees and Forests [[slides]](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/blob/master/Bootcamp-materials/slides/day3-trees-and-forests.odp)
 -  2:30pm Break
--  3:00pm Lab session: Probabilistic Modelling
+-  3:00pm Lab session: Working with tree-based models
  
 #### Day 4: January 11th, 2018: ADVANCED TOPICS IN DATA SCIENCE
 - **Topics**: Natural Language Processing; Neural Networks.

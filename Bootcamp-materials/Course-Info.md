@@ -69,7 +69,14 @@ The course is a blend of online learning experiences (about 2 hours of preparati
 -  3:00pm Lab session: Text classification continued, Q & A
 
 #### Day 5: January 12th, 2018: CAPSTONE PROJECT
-+ **Topics**: Lab project work. 
++ **Topics**: [Lab project work](https://github.com/DS-BootCamp-Collaboratory-Columbia/AY2017-2018-Winter/tree/master/Bootcamp-materials/notebooks/capstones).
++ 10:00am Introduction to capstone projects.
++ 10:30am Capstone projects start. Participants form teams of 2 or 3 and work on one of the projects provided.
++ 12:00pm Break (lunch provided)
++ 1:00pm Capstone projects continue
++ 2:00pm Project group discussion. Participants who work on the same projects meet as a group and discuss their work and identify 2-3 key findings and at least one IPython notebook they'd like to share. 
++ 3:00pm Project share. Each project should nominate one participant to share their group discussion to the entire class.
++ 4:00pm The End.
  
 
 ### Prerequisites
